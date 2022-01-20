@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <p float="left">
+ <img alt="PHP" src="https://img.shields.io/badge/laravel-laravel?style=for-the-badge&logo=laravel&logoColor=#FF2D20"/>
 <img alt="PHP" src="https://img.shields.io/badge/php%20-%234F5B93.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
